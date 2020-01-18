@@ -11,5 +11,4 @@ set -e
 
 brew update
 brew install wget curl
-brew cask install iterm2 google-chrome atom amethyst spectacle shortcat
-apm install atom-haskell
+brew cask install iterm2 docker google-chrome amethyst spectacle shortcat
